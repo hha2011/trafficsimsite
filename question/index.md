@@ -1,7 +1,7 @@
 # Are there plans for newer versions?
 no
 # Is there any tutorial?
-[Here](https://www.youtube.com/watch?v=rZRtc5rWbSw)
+[Here](https://www.youtube.com/watch?v=ybddGoVTWEQ)
 # Are there plans for fabric?
 no
 # Does it work with pojav launcher?
