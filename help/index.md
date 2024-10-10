@@ -3,5 +3,6 @@
 2. Set spawn intervals using the editor.
 3. [Check the tutorial](https://www.youtube.com/watch?v=ybddGoVTWEQ).
 4. If nothing else works, ask the discord.
+
 # Game wont start
 1. Check if you have both [The default pack](https://www.curseforge.com/minecraft/mc-mods/traffic-simulator-default-content-pack) and [The normal mod](https://www.curseforge.com/minecraft/mc-mods/traffic-simulator)
